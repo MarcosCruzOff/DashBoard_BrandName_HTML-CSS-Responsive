@@ -1,1 +1,1 @@
-# DashBoard_BrandName_HTML-CSS-Responsive
+# DashBoard_BrandName: HTML-CSS-Responsive-JavaScript
